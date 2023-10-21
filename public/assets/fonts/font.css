@@ -1,0 +1,13 @@
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('IRANSans(FaNum).ttf');
+    src:url('IRANSans(FaNum)_Light.ttf') format('truetype'), /* FF39+,Chrome36+, Opera24+*/
+    url('IRANSans(FaNum)_Medium.ttf') format('truetype'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('IRANSans(FaNum)_UltraLight.ttf') format('truetype');
+}
+
+* {
+    font-family: IRANSans, serif;
+}
